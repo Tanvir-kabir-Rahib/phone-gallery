@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/programming-hero-web-course-4/b612-used-products-resale-clients-side-Tanvir-kabir-Rahib.git
